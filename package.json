@@ -23,7 +23,7 @@
     "ncp": "^2.0.0",
     "npm-name": "^5.5.0",
     "rimraf": "^3.0.1",
-    "terminal-kit": "^1.32.3"
+    "terminal-kit": "^2.1.8"
   },
   "devDependencies": {
     "np": "^5.2.1"
